@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913470772301",
+    "project_id": "islamify-c541c",
+    "storage_bucket": "islamify-c541c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913470772301:android:feb691f022d3abf086f804",
+        "android_client_info": {
+          "package_name": "com.example.islamify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0-6Mky-Pxq7cz1jL84I2ikAS7DCpsT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
